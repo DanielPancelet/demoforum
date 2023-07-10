@@ -1,5 +1,7 @@
 # myapp
-
+В качетсве данных для авторизации используются "username" 
+обьектов users с сайта https://jsonplaceholder.typicode.com/.
+Пароль '1234'
 ## Project setup
 ```
 npm install
